@@ -6,5 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-# I only trust this exact version. You should not update it.
-ftp = "=3.0.1"
+ftp = "=3.0.1" #Who knows what might happen to this crate so dont update 
